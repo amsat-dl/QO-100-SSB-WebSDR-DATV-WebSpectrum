@@ -7,6 +7,8 @@ see here: https://github.com/dj0abr/QO-100_SSB-WebSDR_DATV-WebSpectrum
 
 # Online Live Monitor:
 
+running on an Amsat-DL Downconverter with GPS-V2 board and two SDR-Play 1A boxes.
+
 DATV WB Transponder:  
 
 http://wx.spdns.de:8081/wb.html
