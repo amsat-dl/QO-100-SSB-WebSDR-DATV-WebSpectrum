@@ -1,5 +1,5 @@
 # QO-100-SSB-WebSDR-DATV-WebSpectrum
-Web based QO-100 Spectrum &amp; Waterfall Display für the NB and WB Transponder
+Web based QO-100 Spectrum &amp; Waterfall Display for the NB and WB Transponder
 
 supports: RTL-SDR, SDRplay and Minitiouner
 
